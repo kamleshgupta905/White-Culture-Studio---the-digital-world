@@ -1266,3 +1266,18 @@ body.dark-theme {
     zoom: 2;
   }
 }
+
+
+.logo-img {
+  height: 30px; /* adjust as per your design */
+  width: auto;
+  vertical-align: middle;
+  margin-left: 8px;
+}
+
+.nav__logo img {
+  height: 30px;
+  width: auto;
+  vertical-align: middle;
+  margin-left: 8px;
+}
